@@ -1,0 +1,22 @@
+
+<%= @greeting %>, <%= @order.name %>  <br/>
+
+Thank you for your recent order from the Pragmatic Store
+
+<p>The following items were ordered on <%= Time.now.strftime("%m/%d/%Y") %></p>
+<p>They will be delivered by  <%= 10.days.from_now.strftime("%m/%d/%Y")%></p>
+
+<table>
+  <tr>
+    <th colspan = "2">Qty</th>
+    <th>Description</th>
+  </tr>
+  <td><%= render @order.line_items %></td>
+</table>
+
+
+
+We'll send you a separate email when your order ships
+
+
+<p><%= image_tag("cs.jpg") %></p>
