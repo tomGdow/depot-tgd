@@ -1,0 +1,1000 @@
+ 1042  vim plugins.js
+ 1043  mv timer.js scripts
+ 1044  vim home.coffee 
+ 1045  rm home.coffee 
+ 1046  mv underscore.js scripts
+ 1047  mv mv videogular.js scripts
+ 1048  ls
+ 1049  cd scripts
+ 1050  ls
+ 1051  cd ..
+ 1052  mv ui-utils scripts
+ 1053  ls
+ 1054  mv ui-utils.js scripts
+ 1055  mv ui-utils-ieshiv.js scripts
+ 1056  ls
+ 1057  vim poster.js
+ 1058  mv poster.js scripts
+ 1059  sl
+ 1060  ls
+ 1061  vim application.js 
+ 1062  rs0
+ 1063  ls
+ 1064  cd scripts
+ 1065  ls
+ 1066  cd .
+ 1067  cd ..
+ 1068  vim scritps 
+ 1069  mv scritps ng-FitText.js
+ 1070  vim ng-FitText.js 
+ 1071  mv ng-FitText.js scripts
+ 1072  r4
+ 1073  r4skk 
+ 1074  rs0
+ 1075  rkjs
+ 1076  rjs
+ 1077  ls
+ 1078  vim controls.js
+ 1079  mv controls.js scripts
+ 1080  mv overlay-play.js scripts
+ 1081  mv demo.js  scripts
+ 1082  ls
+ 1083  mv canvasjs.min.js scripts
+ 1084  ls
+ 1085  vim application.js 
+ 1086  rs0
+ 1087  rjs
+ 1088  ls
+ 1089  rcss
+ 1090  ls
+ 1091  rjs
+ 1092  ls
+ 1093  vim main.js 
+ 1094  mv main.js sceptics.js
+ 1095  ls
+ 1096  vim application.js
+ 1097  rs0
+ 1098  ls
+ 1099  rcss
+ 1100  ls
+ 1101  vim scaffolds.css
+ 1102  rm scaffolds.scss
+ 1103  vim scaffolds.css.scss 
+ 1104  mkdir fordump
+ 1105  mv scaffolds.css.scss fordump
+ 1106  vim line_items.scss 
+ 1107  rm line_items.scss
+ 1108  ls
+ 1109  mkdir vendor
+ 1110  mv foundation_and_overrides.scss vendor
+ 1111  mv foundation.css vendor
+ 1112  mv jquery-ui.css vendor
+ 1113  mv videogular.css.scss vendor
+ 1114  ls
+ 1115  mv flexslider.css vendor
+ 1116  mv foundation.min.css scripts
+ 1117  ls
+ 1118  cd fonts
+ 1119  ls
+ 1120  cd ..
+ 1121  vim application.css.scss 
+ 1122  ls
+ 1123  cd ..
+ 1124  ls
+ 1125  cd stylesheets/
+ 1126  ls
+ 1127  cd vendor/
+ 1128  ls
+ 1129  cd ..
+ 1130  vim application.css.scss 
+ 1131  :ls
+ 1132  ls
+ 1133  cd scripts
+ 1134  ls scripts
+ 1135  vims scripts
+ 1136  vim scripts 
+ 1137  mv scripts foundation.min.css 
+ 1138  ls
+ 1139  cd scripts
+ 1140  ls
+ 1141  cd scripts
+ 1142  ls
+ 1143  cd vendor/
+ 1144  ls
+ 1145  cd ..
+ 1146  mv foundation.min.css vendor
+ 1147  ls
+ 1148  vim home.scss 
+ 1149  rm home.scss 
+ 1150  ls
+ 1151  vim main.css.scss 
+ 1152  vim carts.scss 
+ 1153  rm carts.scss 
+ 1154  ls
+ 1155  vim bibliographies.scss 
+ 1156  rm bibliographies.scss 
+ 1157  r4
+ 1158  rs0
+ 1159  r4
+ 1160  rs0
+ 1161  vim application.css.scss 
+ 1162  r4skk 
+ 1163  rs0
+ 1164  rcss
+ 1165  ls
+ 1166  cd fontstyles
+ 1167  ls
+ 1168  cd fonts2
+ 1169  ls
+ 1170  cd ..
+ 1171  cd fonts2
+ 1172  ls
+ 1173  :q
+ 1174  cd ..
+ 1175  cd fonts
+ 1176  ls
+ 1177  :q
+ 1178  cd ..
+ 1179  ls
+ 1180  vim commodities.scss 
+ 1181  rm commodities.scss 
+ 1182  cd partials
+ 1183  ls
+ 1184  cd ..
+ 1185  ls
+ 1186  vim main.css.scss
+ 1187  ls
+ 1188  vim main.css.scss 
+ 1189  mv main.css.scss sceptics.css.scss
+ 1190  ls
+ 1191  vim application.css.scss 
+ 1192  ls
+ 1193  cd partials
+ 1194  ls
+ 1195  vm backup_widgets.css.scss ../fordump/
+ 1196  mmv backup_widgets.css.scss ../fordump/
+ 1197  mv backup_widgets.css.scss ../fordump/
+ 1198  ls
+ 1199  cd ..
+ 1200  ls
+ 1201  cd variables
+ 1202  ls
+ 1203  cd ..
+ 1204  cd mixins
+ 1205  ls
+ 1206  cd ..
+ 1207  cd functions
+ 1208  ls
+ 1209  vim functions.css.scss 
+ 1210  :q
+ 1211  ls
+ 1212  cd ..
+ 1213  ls
+ 1214  cd ..
+ 1215  ls
+ 1216  cd images
+ 1217  ls
+ 1218  hist
+ 1219  cd ..
+ 1220  ls
+ 1221  cd ..
+ 1222  ls
+ 1223  cd controllers
+ 1224  ls
+ 1225  cd ..
+ 1226  ls
+ 1227  rm tomgdow.txt
+ 1228  ls
+ 1229  vim README.md
+ 1230  rview
+ 1231  ls
+ 1232  cd partials
+ 1233  ls
+ 1234  vim _extraImages.html.erb 
+ 1235  cd ..
+ 1236  ls
+ 1237  cd bibliographies/
+ 1238  ls
+ 1239  cd ..
+ 1240  ls
+ 1241  tree
+ 1242  cd ..
+ 1243  ls
+ 1244  :quit
+ 1245  ls
+ 1246  cd models
+ 1247  ls
+ 1248  :q
+ 1249  cd views
+ 1250  ls
+ 1251  rview 
+ 1252  ls
+ 1253  cd bibliographies/
+ 1254  ls
+ 1255  :q
+ 1256  ls
+ 1257  cd ..
+ 1258  cd home
+ 1259  ls
+ 1260  vim index.html.erb
+ 1261  ls
+ 1262  cd ..
+ 1263  ls
+ 1264  cd carts
+ 1265  ls
+ 1266  :cd ..
+ 1267  ls
+ 1268  ngc
+ 1269  exit
+ 1270  rvm use 2.1.1
+ 1271  rs0
+ 1272  git add .
+ 1273  git commit -am "converted js partials to templates and reorganized css"
+ 1274  git push
+ 1275  git push heroku master
+ 1276  ssh tomgdow@46.101.11.172
+ 1277  rail
+ 1278  clear
+ 1279  st
+ 1280  hostname
+ 1281  st
+ 1282  lsg heroku
+ 1283  vim heroku_commands 
+ 1284  cd histories/
+ 1285  l
+ 1286  vim history_cumul_tgd
+ 1287  ls
+ 1288  vim history_cumul_tgd
+ 1289  pwd
+ 1290  ls
+ 1291  vim history_cumul_tgd_uniq.txt 
+ 1292  h4
+ 1293  heroku run rake:db:status
+ 1294  r4skk 
+ 1295  heroku run rake:db:status
+ 1296  heroku run rake db:migrate:status
+ 1297  heroku logs
+ 1298  git logg
+ 1299  vim Gemfile.lock
+ 1300  vim Gemfile
+ 1301  cd public
+ 1302  ls
+ 1303  cd ..
+ 1304  ls
+ 1305  rm Gemfile
+ 1306  ls
+ 1307  rm  Gemfile.lock 
+ 1308  touch Gemfile
+ 1309  vim Gemfile 
+ 1310  ls
+ 1311  r4
+ 1312  rjs
+ 1313  ls
+ 1314  r4skk 
+ 1315  git grep googlemap.js
+ 1316  git grep googlemap
+ 1317  mv googlemap.js scripts
+ 1318  rjs
+ 1319  mv googlemap.js scripts
+ 1320  rs0
+ 1321  /bin/bash --login
+ 1322  r4skk 
+ 1323  rs0
+ 1324  /bin/bash --login
+ 1325  rvm use 2.1.1
+ 1326  bundle install
+ 1327  git add .
+ 1328  git commit -am "remvoved Gemfile.lock and bundle installed"
+ 1329  git push
+ 1330  git push heroku master
+ 1331  heroku run rake assets:clean
+ 1332  rake assets:clobber
+ 1333  heroku run rake assets:clobber
+ 1334  cd config
+ 1335  ls
+ 1336  vim application.rb 
+ 1337  bundle install
+ 1338  rake assets:clobber
+ 1339  cd ..
+ 1340  git add .
+ 1341  git commit -am "clobbered assets. Added config.assets.version = '1.1'"
+ 1342  git push
+ 1343  git push heroku master
+ 1344  history
+ 1345  st
+ 1346  vim heroku_commands 
+ 1347  ls
+ 1348  lsg heroku
+ 1349  vim deploy_to_heroku_basic
+ 1350  lsg heroku
+ 1351  vim deploy_heroku_basic 
+ 1352  touch deploy_heroku_tweaks
+ 1353  vim deploy_heroku_tweaks 
+ 1354  ssh tomgdow@46.101.11.172
+ 1355  r4
+ 1356  r4skk 
+ 1357  ls
+ 1358  cd ls
+ 1359  rview
+ 1360  ls
+ 1361  cd home
+ 1362  ls
+ 1363  vim ng_template_1.html.erb 
+ 1364  vim index.html.erb 
+ 1365  vim timer.html
+ 1366  vim timer.html.erb 
+ 1367  ngr
+ 1368  ngrout
+ 1369  vim ng_template_2.html.erb 
+ 1370  tgdup
+ 1371  shared
+ 1372  ls
+ 1373  \ls
+ 1374  lsg copy
+ 1375  mv movie.mp4 ../acp/skkeptics_with_angular/r4sketpics_SPA_angular/r4skeptics/app/assets/images/
+ 1376  rview
+ 1377  cd home
+ 1378  vim ng_template_1.html.erb 
+ 1379  vim ng_template_2.html.erb 
+ 1380  rvm use 2.1.1
+ 1381  ls
+ 1382  rs0
+ 1383  vim ng_template_2.html.erb 
+ 1384  rview; cd home;
+ 1385  vim ng_template_2.html.erb 
+ 1386  cd ..
+ 1387  cd home
+ 1388  cd public
+ 1389  cd ..
+ 1390  cd public
+ 1391  s
+ 1392  ls
+ 1393  rview
+ 1394  cd home
+ 1395  vim ng_template_2.html.erb 
+ 1396  rvm use 2.1.1
+ 1397  rs0
+ 1398  exit
+ 1399  ls
+ 1400  cd config
+ 1401  ls
+ 1402  r4skk 
+ 1403  ls
+ 1404  cd config
+ 1405  ls
+ 1406  vim application.rb 
+ 1407  cd public
+ 1408  cd ..
+ 1409  cd public
+ 1410  ls
+ 1411  cp moviep.mp4  ../app/assets/media/
+ 1412  cd ..
+ 1413  cd app/assets/media/
+ 1414  ls
+ 1415  mv moviep.mp4 moviem.mp4
+ 1416  ls
+ 1417  r4skk 
+ 1418  /bin/bash --login
+ 1419  quit
+ 1420  exit
+ 1421  rvm use 2.1.1
+ 1422  ls
+ 1423  npm install -g ember-cli
+ 1424  sudo npm install -g ember-cli
+ 1425  npm install -g watchman
+ 1426  sudo npm install -g watchman
+ 1427  npm install -g phantomjs
+ 1428  sudonpm install -g phantomjs
+ 1429  sudo sudonpm install -g phantomjs
+ 1430  sudonpm install -g phantomjs
+ 1431  sudo npm  install -g phantom
+ 1432  pwd
+ 1433  mkdir ember_app_tgd
+ 1434  cd ember_app_tgd/
+ 1435  ember new my-new-app
+ 1436  ls
+ 1437  cd mynewapp
+ 1438  ls
+ 1439  cd my-new-app/
+ 1440  ls
+ 1441  npm install && bower install
+ 1442  ember server
+ 1443  cd 
+ 1444  npm install -g bower
+ 1445  sudo npm install -g bower
+ 1446  ember server
+ 1447  cd ember_app_tgd/
+ 1448  ls
+ 1449  cd my-new-app/
+ 1450  ember sever
+ 1451  ember server
+ 1452  ember-sever
+ 1453  ember-server
+ 1454  sudo npm install
+ 1455  sudo bower install
+ 1456  bower intall
+ 1457  npm install 0g bower
+ 1458  sudo npm install 0g bower
+ 1459  cd 
+ 1460  sudo npm install -g bower
+ 1461  cd ember_app_tgd/
+ 1462  ls
+ 1463  cd my-new-app/
+ 1464  ember server
+ 1465  npm install && bower install
+ 1466  ember server
+ 1467  npm install ember-cli --save
+ 1468  ember server
+ 1469  npm install ember-cli-version-checker
+ 1470  ember server
+ 1471  npm install clone
+ 1472  ember server
+ 1473  exit
+ 1474  rvm use 2.1.1
+ 1475  rs0
+ 1476  rview
+ 1477  s
+ 1478  ls
+ 1479  cd home
+ 1480  cd ng-views
+ 1481  cd devise
+ 1482  vim ng_template_2.html.erb 
+ 1483  rs0
+ 1484  vim ng_template_2.html.erb 
+ 1485  rs0
+ 1486  r4skk 
+ 1487  ls
+ 1488  ls -la
+ 1489  vim .htaccess
+ 1490  touch .htaccess
+ 1491  vim .htaccess
+ 1492  git add .
+ 1493  git commit -am "added AddType video/ogg .ogv
+ 1494  AddType video/mp4 .mp4
+ 1495  git commit -am "added mediaelementjs video directive"
+ 1496  git push
+ 1497  git push heroku master
+ 1498  ssh tomgdow@46.101.11.172
+ 1499  rview
+ 1500  ls
+ 1501  vim
+ 1502  cd home
+ 1503  vim ng_template_2.html.erb 
+ 1504  ls
+ 1505  ngcont
+ 1506  ngc 
+ 1507  st
+ 1508  lsg bash
+ 1509  vim bash_intro_pluralsight 
+ 1510  bundle install
+ 1511  rvm use 2.1.1
+ 1512  bundle install
+ 1513  rs0
+ 1514  bundle exec cap install
+ 1515  tree
+ 1516  :q
+ 1517  exit
+ 1518  rvm use 2.1.1
+ 1519  bundle exec cap install
+ 1520  bundle exec cap -T
+ 1521  git grep capistrano
+ 1522  ls
+ 1523  cd config
+ 1524  ls
+ 1525  vim deploy.rb
+ 1526  cd deploy
+ 1527  lls
+ 1528  ls
+ 1529  vim production.rb
+ 1530  vim staging.rb
+ 1531  cd ..
+ 1532  ls
+ 1533  cd 
+ 1534  ls
+ 1535  cd ..
+ 1536  ls
+ 1537  cd acp
+ 1538  cd 
+ 1539  cd acp
+ 1540  ls
+ 1541  cd depot_rails_four/
+ 1542  ls
+ 1543  cd depot-tgd/
+ 1544  ls
+ 1545  cd depot
+ 1546  ls
+ 1547  vim Capfile 
+ 1548  vim deploy.rb
+ 1549  cd config/
+ 1550  ls
+ 1551  mkdir bashpractice
+ 1552  ls
+ 1553  cd bashpractice/
+ 1554  touch thomas{1..3}.txt
+ 1555  ls
+ 1556  rm thomas*
+ 1557  ls
+ 1558  clear
+ 1559  touch thomas.{png, txt}
+ 1560  ls
+ 1561  rm thomas.*
+ 1562  ls
+ 1563  cd 
+ 1564  st
+ 1565  vim bash_intro_pluralsight 
+ 1566  cd 
+ 1567  cd bashpractice/
+ 1568  ls
+ 1569  rm tx*
+ 1570  ls
+ 1571  touch {a,b,c}.txt
+ 1572  ls
+ 1573  touch thomas{1..3}.txt
+ 1574  ls
+ 1575  exit
+ 1576  vim deploy.rb 
+ 1577  cd deploy/
+ 1578  ls
+ 1579  vim production.rb
+ 1580  cim staging.rb 
+ 1581  vim staging.rb 
+ 1582  cd ..
+ 1583  cd depot
+ 1584  vim secrets.yml 
+ 1585  ls
+ 1586  cd deploy
+ 1587  ls
+ 1588  vim staging.rb 
+ 1589  cd ..
+ 1590  vim deploy.rb
+ 1591  hist
+ 1592  st
+ 1593  vim bash_intro_pluralsight 
+ 1594  vim bash_advanced_pluralsight
+ 1595  cp bash_intro_pluralsight bash_intro_pluralsight.txt
+ 1596  mv bash_intro_pluralsight.txt  ../shared/
+ 1597  cp bash_advanced_pluralsight bash_advanced_pluralsight.txt
+ 1598  mv bash_advanced_pluralsight.txt ../shared/
+ 1599  ls
+ 1600  tgdup
+ 1601  shared
+ 1602  ls
+ 1603  /ls
+ 1604  \ls
+ 1605  st
+ 1606  mv bash_advanced_pluralsight.txt ../shared/
+ 1607  shared 
+ 1608  ls
+ 1609  st
+ 1610  cp bash_intro_pluralsight bash_intro_pluralsight.txt
+ 1611  mv bash_intro_pluralsight.txt  ../shared/
+ 1612  cp bash_advanced_pluralsight bash_advanced_pluralsight.txt
+ 1613  mv bash_advanced_pluralsight.txt  ../shared/
+ 1614  ls
+ 1615  cd ruby
+ 1616  cd /bin
+ 1617  ls
+ 1618  cd /
+ 1619  cd bin
+ 1620  ls
+ 1621  cd /
+ 1622  cd bin/
+ 1623  ls
+ 1624  lsg  hist
+ 1625  pwd
+ 1626  cd .
+ 1627  pwd
+ 1628  cd ..
+ 1629  cd .
+ 1630  ls
+ 1631  cd bin
+ 1632  ls
+ 1633  cd /
+ 1634  ls
+ 1635  pwd
+ 1636  cd bin
+ 1637  ls
+ 1638  lsg hw
+ 1639  cd /home/user
+ 1640  ls
+ 1641  cd .
+ 1642  cd 
+ 1643  ls
+ 1644  cd bin
+ 1645  ls
+ 1646  bin
+ 1647  drawling ---
+ 1648  drawline i
+ 1649  cd ..
+ 1650  man gzip
+ 1651  gzip bin/
+ 1652  gzip -r bin.zip bin
+ 1653  gzip -r bin bin.zip
+ 1654  gzip -r bin
+ 1655  ls
+ 1656  vim bin
+ 1657  lsg vim
+ 1658  lsg bin
+ 1659  cp -R bin bin_josef
+ 1660  cd bin_josef/
+ 1661  ls
+ 1662  cd
+ 1663  ls
+ 1664  mv bin_josef/  shared/
+ 1665  st
+ 1666  vim bash intro
+ 1667  exit
+ 1668  vim bash_intro_pluralsight 
+ 1669  bundle --binstubs
+ 1670  rvm use 2.1.1
+ 1671  bundle --binstubs
+ 1672  cd 
+ 1673  chmod +x $rvm_path/hooks/after_cd_bundler
+ 1674  cd acp
+ 1675  ls
+ 1676  cd depot_rails_four/
+ 1677  ls
+ 1678  cd depot-tgd/
+ 1679  ls
+ 1680  dep
+ 1681  cd depot/
+ 1682  ls
+ 1683  cap install STAGES=production
+ 1684  vim Gemfile
+ 1685  bundle install
+ 1686  cap install STAGES=production
+ 1687  cd ..
+ 1688  rm -rf depot
+ 1689  ls
+ 1690  cd ..
+ 1691  rm -rf depot-tgd/
+ 1692  git clone https://github.com/tomGdow/depot-tgd.git
+ 1693  cd ..
+ 1694  ls
+ 1695  cd de
+ 1696  cd depot_rails_four/
+ 1697  cd depot-tgd/
+ 1698  bundle install
+ 1699  rvm use 2.1.1
+ 1700  bundle install
+ 1701  rvm use 2.1.1
+ 1702  bundle install
+ 1703  cd depot/
+ 1704  bundle install
+ 1705  rake db:migrate
+ 1706  rs0
+ 1707  rm Gemfile.lock 
+ 1708  bundle install
+ 1709  rs0
+ 1710  rvm use 1.9.3
+ 1711  bundle install
+ 1712  rvm use 2.1.1
+ 1713  rm Gemfile.lock
+ 1714  bundle install
+ 1715  rake db:migrate
+ 1716  rake db:migrate:status
+ 1717  rs0
+ 1718  User.all
+ 1719  Users.all
+ 1720  ActiveRecord::Base.connection.tables
+ 1721  ls
+ 1722  cd ..
+ 1723  ActiveRecord::Base.connection.tables
+ 1724  ls
+ 1725  cd depot
+ 1726  rake db:migrate:status
+ 1727  Users.all
+ 1728  exit
+ 1729  cd 
+ 1730  ssh tomgdow@46.101.11.172
+ 1731  exit
+ 1732  rails c
+ 1733  rs0
+ 1734  rake db:seed
+ 1735  cd config
+ 1736  cd ..
+ 1737  cd db
+ 1738  cd migrate/
+ 1739  ls
+ 1740  vim 20150301192007_create_users.rb
+ 1741  ssh tomgdow@46.101.11.172
+ 1742  rails c
+ 1743  exit
+ 1744  rs0
+ 1745  vim Gemfile
+ 1746  bundle install
+ 1747  ls
+ 1748  ls
+ 1749  rv
+ 1750  de
+ 1751  cda
+ 1752  cd 
+ 1753  cd acp/
+ 1754  cd depot_rails_four/
+ 1755  ls
+ 1756  cd depot-tgd/
+ 1757  ls
+ 1758  cd depot
+ 1759  ls
+ 1760  rmv list
+ 1761  rvm list
+ 1762  vim Capfile 
+ 1763  cd ..
+ 1764  ls
+ 1765  cd ..
+ 1766  cd depot_rails_four/
+ 1767  ls
+ 1768  rm -rf depot-tgd/
+ 1769  git clone https://github.com/tomGdow/depot-tgd.git
+ 1770  cd depot-tgd/
+ 1771  rmv use 2.1.1
+ 1772  rvm use 2.1.1
+ 1773  rvm get stable --auto-dotfiles
+ 1774  rvm list
+ 1775  bundle install
+ 1776  cd depot/
+ 1777  bundle install
+ 1778  rake db:migrate
+ 1779  rake db:seed
+ 1780  rs0
+ 1781  rails c
+ 1782  rs0
+ 1783  rm Gemfile.lock 
+ 1784  vim Gemfile 
+ 1785  gem install passenger
+ 1786  bundle install
+ 1787  bundle exec cap install
+ 1788  vim Capfile
+ 1789  cd config
+ 1790  ls
+ 1791  vim deploy.rb
+ 1792  cd deploy
+ 1793  vim production.rb
+ 1794  exit
+ 1795  /bin/bash --login
+ 1796  exit
+ 1797  /bin/bash --login
+ 1798  quit
+ 1799  exit
+ 1800  acp
+ 1801  cd acp
+ 1802  ls
+ 1803  cd depot_rails_four/
+ 1804  ls
+ 1805  cd depot
+ 1806  cd depot-tgd/
+ 1807  ls
+ 1808  git status
+ 1809  cd depot
+ 1810  ls
+ 1811  vim Gemfile
+ 1812  bundle install
+ 1813  /bin/bash --login
+ 1814  bundle exec cap -T
+ 1815  /bin/bash --login
+ 1816  cd 
+ 1817  cd bashpractice/
+ 1818  ls
+ 1819  mv thomas1{.txt, .png}
+ 1820  mv thomas1.{txt, jpg}
+ 1821  ls
+ 1822  mv thomas1.{txt, jpg}
+ 1823  mv thomas1.{txt,jpg}
+ 1824  ls
+ 1825  cp thomas1{,backp}
+ 1826  touch tdd
+ 1827  mv tdd{,backup}
+ 1828  ls
+ 1829  cd 
+ 1830  acp
+ 1831  cd acp
+ 1832  ls
+ 1833  cd depot_rails_four/depot-tgd/
+ 1834  cd depot/
+ 1835  ls
+ 1836  rm Gemfile.lock 
+ 1837  vim Gemfile 
+ 1838  /bin/bash --login
+ 1839  cd 
+ 1840  st
+ 1841  git grep rails
+ 1842  git grep rails | grep tables
+ 1843  lsg grep rails
+ 1844  lsg rails
+ 1845  vim rails_commands_useful 
+ 1846  vim rails_admin_from_console 
+ 1847  rmv use 2.1.1
+ 1848  rvm use 2.1.1
+ 1849  bundle exec cap production deploy
+ 1850  whoami
+ 1851  vim Capfile 
+ 1852  bundle exec cap production deploy
+ 1853  cd ~/.rbenv/versions
+ 1854  cd 
+ 1855  whoami
+ 1856  cd acp
+ 1857  cd depot_rails_four/
+ 1858  cd depot-tgd/
+ 1859  ld
+ 1860  cd depot/
+ 1861  ls
+ 1862  vim Capfile 
+ 1863  bundle exec cap production deploy
+ 1864  ls
+ 1865  git add .
+ 1866  git commit -am "added capistrano"
+ 1867  git push
+ 1868  bundle exec cap production deploy
+ 1869  ls
+ 1870  bundle exec cap production deploy > deploy.txt
+ 1871  ls
+ 1872  cim deploy.txt 
+ 1873  vim deploy.txt 
+ 1874  rm deploy.txt 
+ 1875  whoami
+ 1876  vim Capfile 
+ 1877  ls
+ 1878  cd config
+ 1879  vim deploy.rb 
+ 1880  cd 
+ 1881  cd acp
+ 1882  cd depot
+ 1883  cd depot_rails_four/
+ 1884  ls
+ 1885  cd depot/
+ 1886  ls
+ 1887  bundle exec cap production deploy
+ 1888  :q
+ 1889  vim Capfile 
+ 1890  cd config/
+ 1891  ls
+ 1892  vim deploy.rb 
+ 1893  bundle exec cap production deploy
+ 1894  cd ..
+ 1895  bundle exec cap production deploy
+ 1896  vim Capfile 
+ 1897  cd deploy
+ 1898  cd config/
+ 1899  vim deploy.rb
+ 1900  cd ..
+ 1901  bundle exec cap production deploy
+ 1902  ls
+ 1903  vim Capfile 
+ 1904  cd config/
+ 1905  ls
+ 1906  vim deploy.rb 
+ 1907  cd config
+ 1908  cd deploy/
+ 1909  ls
+ 1910  vim production.rb 
+ 1911  bundle exec cap production deploy
+ 1912  cd 
+ 1913  cd acp
+ 1914  cd depot_rails_four/
+ 1915  cd depot-tgd/
+ 1916  cd depot/
+ 1917  bundle exec cap production deploy
+ 1918  cd config
+ 1919  vim deploy.rb 
+ 1920  cd ..
+ 1921  bundle exec cap production deploy
+ 1922  ssh tomgdow@46.101.11.172
+ 1923  exitxit
+ 1924  exit
+ 1925  rvm use 2.1.1
+ 1926  bundle exec cap production deploy
+ 1927  cd config
+ 1928  ls
+ 1929  vim deploy.rb
+ 1930  cd 
+ 1931  ls
+ 1932  whoami
+ 1933  mdir gitpractice
+ 1934  mkdir gitpractice
+ 1935  cd gitpractice/
+ 1936  git clone git@github.com:tomGdow/depot-tgd.git
+ 1937  ls
+ 1938  ssh tomgdow@46.101.11.172
+ 1939  cd 
+ 1940  rm -rf gitpractice/
+ 1941  cd acp
+ 1942  cd depot_rails_four/
+ 1943  cd depot-tgd/
+ 1944  ls
+ 1945  bundle exec cap production deploy
+ 1946  cd depot/
+ 1947  bundle exec cap production deploy
+ 1948  exit
+ 1949  rvm use 2.1.1
+ 1950  bundle exec cap production deploy
+ 1951  cd config
+ 1952  cd ..
+ 1953  vim Capfile 
+ 1954  bundle exec cap production deploy
+ 1955  vim Capfile 
+ 1956  cd config
+ 1957  vim deploy.rb 
+ 1958  cd ..
+ 1959  bundle exec cap production deploy
+ 1960  ssh tomgdow@46.101.11.172
+ 1961  logotou
+ 1962  logout
+ 1963  rmv use 2.1.1
+ 1964  rvm use 2.1.1
+ 1965  bundle exec cap production deploy
+ 1966  ssh tomgdow@46.101.11.172
+ 1967  vim Capfile 
+ 1968  bundle exec cap production deploy
+ 1969  vim Capfile 
+ 1970  bundle exec cap production deploy
+ 1971  cd config
+ 1972  ls
+ 1973  vim deloy.rb
+ 1974  vim deploy.rb 
+ 1975  cd ..
+ 1976  vim Capfile 
+ 1977  ssh tomgdow@46.101.11.172
+ 1978  vim Capfile 
+ 1979  bundle exec cap production deploy
+ 1980  :vim Capfile 
+ 1981  vim Capfile 
+ 1982  bundle exec cap production deploy
+ 1983  ssh tomgdow@46.101.11.172
+ 1984  vim Capfile 
+ 1985  bundle exec cap production deploy
+ 1986  ls
+ 1987  st
+ 1988  touch ng_frontEndMasters_lucas_Ruebbelke
+ 1989  ls
+ 1990  vim ng_frontEndMasters_lucas_Ruebbelke 
+ 1991  st
+ 1992  cd 
+ 1993  nmp install -g yo
+ 1994  sudo apt-get install update
+ 1995  sudo apt-get upgrade
+ 1996  npm install -g yo
+ 1997  sudo npm install -g yo
+ 1998  npm install -g npm
+ 1999  st
+ 2000  l
+ 2001  git pull
+ 2002  ls
+ 2003  vim q
+ 2004  lsg ng
+ 2005  vim ng_frontEndMasters_lucas_Ruebbelke
+ 2006  touch unix_$_underscore
+ 2007  ls
+ 2008  rm unix_
+ 2009  ls
+ 2010  touch unix_dollar_underscore
+ 2011  vim unix_dollar_underscore 
+ 2012  cd 
+ 2013  cd acp/noterious/
+ 2014  yo angular:route main
+ 2015  st
+ 2016  vim ng_frontEndMasters_lucas_Ruebbelke 
+ 2017  git add .
+ 2018  git commit -am "added ng-frontend-masters lesson 2"
+ 2019  git push
+ 2020  cd acp
+ 2021  cd 
+ 2022  cd acp 
+ 2023  cd depot_rails_four/
+ 2024  ls
+ 2025  cd depot-tgd/
+ 2026  ls
+ 2027  cd depot
+ 2028  vim Capfile 
+ 2029  cd deploy
+ 2030  ls
+ 2031  cd config/deploy/
+ 2032  vim deploy.rb
+ 2033  ls
+ 2034  cd ..
+ 2035  vim deploy.rb 
+ 2036  cd deploy
+ 2037  vim production.rb 
+ 2038  vim staging.rb 
+ 2039  ls -la
+ 2040  history
+ 2041  history > temphistory

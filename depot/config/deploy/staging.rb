@@ -21,7 +21,12 @@
 # role :web, %w{user1@primary.com user2@additional.com}, other_property: :other_value
 # role :db,  %w{deploy@example.com}
 
-
+role :app, %w{tomgdow@46.101.11.172} #, my_property: :my_value
+role :web, %w{tomgdow@46.101.11.172} #, other_property: :other_value
+role :db,  %w{tomgdow@46.101.11.172}, :primary => true
+set :branch, "master"   
+set :rails_env, "production"                                                           
+set :deploy_to, "/var/www/html/depot" 
 
 # Configuration
 # =============
@@ -30,10 +35,8 @@
 # For available Capistrano configuration variables see the documentation page.
 # http://capistranorb.com/documentation/getting-started/configuration/
 # Feel free to add new variables to customise your setup.
-
-
-
 # Custom SSH Options
+
 # ==================
 # You may pass any option but keep in mind that net/ssh understands a
 # limited set of options, consult the Net::SSH documentation.
